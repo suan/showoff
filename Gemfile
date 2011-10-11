@@ -2,7 +2,7 @@ source :rubygems
 
 gem "sinatra"
 gem "bluecloth"
-gem "nokogiri"
+gem "nokogiri ~> 1.5.0"
 gem "json"
 gem "gli",">= 1.2.5"
 gem "parslet"
